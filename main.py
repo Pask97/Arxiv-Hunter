@@ -6,7 +6,7 @@ from keep_alive import keep_alive
 
 
 
-TOKEN = 'OTc0NjQ4NDA2MTg0MTkwMDgy.GR1e-8.R3kiM4a6HccfFg9awLQ_pwT-aoB6FOVQE--f2I' 
+TOKEN = %DISCORD BOT TOKEN% 
 
 sortings = ['random','date','relevance']
 
